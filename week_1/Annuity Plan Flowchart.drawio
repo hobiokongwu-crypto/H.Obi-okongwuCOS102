@@ -1,0 +1,64 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="bu8CIWcoLgpSGcwmgCoj">
+    <mxGraphModel dx="772" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-2" edge="1" parent="1" source="MAL7Eee5gUG9qHcxNY6X-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MAL7Eee5gUG9qHcxNY6X-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="80" width="180" x="350" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-4" edge="1" parent="1" source="MAL7Eee5gUG9qHcxNY6X-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MAL7Eee5gUG9qHcxNY6X-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="160" x="360" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-6" edge="1" parent="1" source="MAL7Eee5gUG9qHcxNY6X-5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MAL7Eee5gUG9qHcxNY6X-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="160" x="360" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-8" edge="1" parent="1" source="MAL7Eee5gUG9qHcxNY6X-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MAL7Eee5gUG9qHcxNY6X-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="542.6666259765625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="519.9966259765624" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Start" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User input (PMT, R, n, t)" vertex="1">
+          <mxGeometry height="30" width="85" x="397.5" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Process (A=PMT((1+(R/n))^(nt) -1)/(R/n)" vertex="1">
+          <mxGeometry height="30" width="140" x="370" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Output (Display The Future Value of Annuity)" vertex="1">
+          <mxGeometry height="30" width="100" x="390" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="MAL7Eee5gUG9qHcxNY6X-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="End" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="545" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
